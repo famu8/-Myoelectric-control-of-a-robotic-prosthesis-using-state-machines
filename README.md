@@ -1,6 +1,6 @@
 # Myoelectric-control-of-a-robotic-prosthesis-robotic-prosthesis-using-state-machines.-states.
 
-##Objectives and tasks
+## Objectives and tasks
 Objectives 
 To design the myoelectric control of a robotic prosthesis following a state machine based control scheme.  based control scheme. The simulated environment will allow flexion/extension, pronation/supination and opening/closing movements of the prosthesis,  pronation/supination and opening/closing of the prosthesis. Several state machines will be designed  state machines commanded by flexion, extension and co-contraction movements of the forearm will be designed. 
 Tasks 
