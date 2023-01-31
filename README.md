@@ -16,3 +16,6 @@ Different programs have been used, as well as hardware components, such as:
   - Matlab - PC 
   - 3D virtual arm 
   - Autodesk Fusion 360 
+
+
+Exmaple video: https://youtu.be/3bKOOgokOJE
